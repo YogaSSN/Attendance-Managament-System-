@@ -1,0 +1,4 @@
+# Faculty Data Format: FacultyID|Name|Password|Department
+F001|Dr. Rajesh Kumar|pass123|Computer Science
+F002|Dr. Priya Sharma|pass456|Computer Science
+F003|Dr. Arun Patel|pass789|Computer Science

@@ -1,0 +1,21 @@
+========================================
+         STUDENT ATTENDANCE REPORT      
+========================================
+
+Name: Tushyent N P
+Roll No: 3122 24 5001 189
+Department: CSE C
+
+Subject-wise Attendance:
+----------------------------------------
+Computer Organization and Architecture: 100.00%
+Operating Systems             : 0.00%
+Database Management           : 100.00%
+Data Structures               : 100.00%
+-                             : 0.00%
+
+----------------------------------------
+Overall Attendance: 31.58%
+========================================
+
+Generated on: 19-10-2025 23:40

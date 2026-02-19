@@ -1,0 +1,55 @@
+# Subject Data Format: SubjectCode|SubjectName|FacultyID|Department|Section|TotalHours
+CS301|Object Oriented Programming|F001|CSE|A|4
+CS302|Database Management Systems|F002|CSE|A|4
+CS303|Computer Networks|F003|CSE|A|3
+CSE101|Data Structures|F001|CSE|A|60
+CSE102|Operating Systems|F002|CSE|A|45
+CSE103|Database Management|F001|CSE|A|60
+CSE201|Computer Networks|F003|CSE|B|45
+IT101|Web Technologies|F004|IT|A|60
+IT102|Software Engineering|F005|IT|A|45
+ECE101|Digital Electronics|F006|ECE|A|60
+ECE102|Signals and Systems|F007|ECE|A|45
+EEE101|Circuit Theory|F008|EEE|A|60
+MECH101|Thermodynamics|F009|MECH|A|60
+CIVIL101|Structural Analysis|F010|CIVIL|A|60
+CHE101|Chemical Engineering|F011|CHE|A|60
+ CSE101|Object Oriented Programming|F001|CSE|A|60
+ CSE102|Data Structures and Algorithms|F002|CSE|A|60
+ CSE103|Database Management Systems|F003|CSE|A|45
+ CSE104|Computer Organization and Architecture|F001|CSE|A|60
+ CSE105|Digital System Design|F004|CSE|A|45
+ CSE106|Computer Networks|F002|CSE|A|60
+ CSE107|Operating Systems|F003|CSE|A|60
+ CSE108|Software Engineering|F001|CSE|A|45
+ CSE109|Web Technologies|F004|CSE|A|45
+ CSE110|Artificial Intelligence|F002|CSE|A|60
+ CSE201|Object Oriented Programming|F005|CSE|B|60
+ CSE202|Data Structures and Algorithms|F006|CSE|B|60
+ CSE203|Database Management Systems|F005|CSE|B|45
+ CSE204|Computer Organization and Architecture|F006|CSE|B|60
+ CSE301|Object Oriented Programming|F007|CSE|C|60
+ CSE302|Data Structures and Algorithms|F008|CSE|C|60
+ CSE303|Database Management Systems|F007|CSE|C|45
+ CSE304|Computer Organization and Architecture|F008|CSE|C|60
+ CSE305|Digital System Design|F007|CSE|C|45
+ CSE306|Computer Networks|F008|CSE|C|60
+ CSE307|Engineering Mathematics-III|F009|CSE|C|45
+ IT101|Data Structures and Algorithms|F010|IT|A|60
+ IT102|Database Management Systems|F011|IT|A|60
+ IT103|Computer Networks|F010|IT|A|45
+ IT104|Web Technologies|F011|IT|A|60
+ ECE101|Digital System Design|F012|ECE|A|60
+ ECE102|Digital Signal Processing|F013|ECE|A|60
+ ECE103|Communication Systems|F012|ECE|A|45
+ ECE104|Engineering Mathematics-III|F013|ECE|A|45
+ EEE101|Electrical Machines|F014|EEE|A|60
+ EEE102|Power Systems|F015|EEE|A|60
+ EEE103|Control Systems|F014|EEE|A|45
+ MECH101|Thermodynamics|F016|MECH|A|60
+ MECH102|Fluid Mechanics|F017|MECH|A|60
+ MECH103|Manufacturing Technology|F016|MECH|A|45
+ BME101|Biomechanics|F018|BME|A|60
+ BME102|Medical Instrumentation|F019|BME|A|60
+ CHE101|Chemical Process Calculations|F020|CHE|A|60
+ CHE102|Thermodynamics|F021|CHE|A|60
